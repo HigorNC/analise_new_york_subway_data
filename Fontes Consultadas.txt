@@ -1,0 +1,9 @@
+https://stackoverflow.com
+
+http://wiki.python.org.br/DocumentacaoPython
+
+https://matplotlib.org/
+
+https://pandas.pydata.org/
+
+http://www.numpy.org/
